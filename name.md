@@ -13,9 +13,6 @@
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5f234a542809eb0012915398&product=sop' async='async'></script>
 
 
-
- 
-
 </head>
 
 <body>
