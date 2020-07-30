@@ -30,6 +30,7 @@
 <br/>
 <br/>
 
+<!-- ShareThis BEGIN --><div class="sharethis-inline-share-buttons"></div><!-- ShareThis END -->
 <div id='result'>
   
   </div>
