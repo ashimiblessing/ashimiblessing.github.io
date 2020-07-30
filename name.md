@@ -21,7 +21,7 @@
 <body>
 
 <!-- Default form subscription -->
-<form class="text-center border border-light p-5"  onsubmit='chinko_maker(event)' >      <p class="h4 mb-4">Convert your name to Chinese ! </p>      <p>Enter your name now and get its equivalent in Chinese. Please note that this tool does not confer Chinese citizenship ;) </p>    
+<form class="text-center border border-light p-5"  onsubmit='chinko_maker(event)' >      <p class="h4 mb-4">Convert your name to Chinese ! </p>      <p>Enter your name now and get its equivalent in Chinese. Please note that translating your name does not confer Chinese citizenship ;) </p>    
   
     <!-- Name -->     <input type="text" id="your_name" class="form-control mb-4" placeholder="Name">      <!-- Email -->   <!-- Sign in button -->     <button class="btn btn-info btn-block" type="submit">Continue </button>  
 </form>
