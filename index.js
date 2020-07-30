@@ -14,7 +14,7 @@
  
    
     var sourceLang = 'auto';
-    var targetLang = 'zh';
+    var targetLang = 'zh-Hans';
  
     /* Option 2 */ 
     
@@ -22,7 +22,8 @@
      
     
     $.get( url, function( data ) {
-       var result = JSON.parse(data);
+      // var result = JSON.parse(data);
+       var result =  data;
     var  translatedText = result[0][0][0];
       alert(translatedText);
  // $( ".result" ).html( data );
