@@ -13,6 +13,17 @@
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5f234a542809eb0012915398&product=sop' async='async'></script>
 
 
+
+  <meta property="og:title" content="You to Chinese" />
+  <meta property="og:url" content="https://bit.ly/youtocn" />
+  <meta property="og:image" content="http://sharethis.com/images/logo.jpg" />
+  <meta property="og:description" content="This fun tool just helped me know my Chinese name, you should try it!" />
+  <meta property="og:site_name" content="YouToChinese" />
+
+
+
+
+
 </head>
 
 <body>
