@@ -25,8 +25,12 @@
       // var result = JSON.parse(data);
        var result =  data;
     var  translatedText = result[0][0][0];
-      alert(translatedText);
- // $( ".result" ).html( data );
+      
+ Swal.fire(
+  'Well done!',
+  'Your Chinese name is '+ translatedText,
+  'success'
+)
    
 });
    
