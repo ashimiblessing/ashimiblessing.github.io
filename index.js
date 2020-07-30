@@ -14,7 +14,7 @@
  
    
     var sourceLang = 'auto';
-    var targetLang = 'zh-Hans';
+    var targetLang = 'zh-CN';
  
     /* Option 2 */ 
     
