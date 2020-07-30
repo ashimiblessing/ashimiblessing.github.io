@@ -19,7 +19,7 @@
     /* Option 2 */ 
     
     var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=" + sourceLang + "&tl=" + targetLang + "&dt=t&q=" + encodeURI(sourceText);
-    var result = JSON.parse(UrlFetchApp.fetch(url).getContentText());
+     
     
     $.get( url, function( data ) {
        var result = JSON.parse(data);
